@@ -1,4 +1,5 @@
 <h1 align="center">Hello,World, I'm <a href="https://daniilshat.ru/" target="_blank">Egor</a> 
+<h1 align="center">I'm <a href="https://daniilshat.ru/" target="_blank">Egor</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm originally from Crimea, and I'm on my way to becoming a computer science specialist. </h3>
 
