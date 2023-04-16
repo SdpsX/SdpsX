@@ -3,5 +3,5 @@
 <h3 align="center">I come from Crimea, and I am learning to swim in the IT world</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="579" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div
