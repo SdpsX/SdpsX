@@ -1,8 +1,6 @@
-<h1 align="center">Hello,World</a> 
-<h1 align="center">I'm <a href="https://daniilshat.ru/" target="_blank">Egor</a> 
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Egor</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm originally from Crimea, and I'm on my way to becoming a computer science specialist. </h3>
-
+<h3 align="center">I come from Crimea, and I am learning to swim in the IT world</h3>
 <!--
 **SdpsX/SdpsX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
