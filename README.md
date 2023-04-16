@@ -13,15 +13,6 @@
 -  **I'd love to get into a career in science in the future alongside programming**
 -  **LOVE  playing different computer games.Really, help, I can't find 3 players for Magicka!**
   
-  <p align="center">
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
-  <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
-</p>
-
-<p align="center">
-  <img width="75%" src="metrics.svg"/>
-  <img src="metrics.detailed.svg" width="75%"/>
-</p>
 
   
   
