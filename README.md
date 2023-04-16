@@ -11,6 +11,6 @@
 ## Here's some fun facts about me:
   -  **I love math, but when it comes to mathematical physics equations.My powers are all here🏻‍💻**
 -  **I'd love to get into a career in science in the future alongside programming 👩🏻‍⚕️**
--  ***** * * *  LOVE *** playing different computer games.Really, help, I can't find 3 players for Magicka!**
+-  LOVE  playing different computer games.Really, help, I can't find 3 players for Magicka!**
 
   
