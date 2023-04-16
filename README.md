@@ -2,6 +2,12 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I come from Crimea, and I am learning to swim in the IT world</h3>
 
+
+</a>
+<br>
+<img src="https://github.com/Rosya-edwica/Rosya-edwica/blob/main/scaler-create-impact.gif" width="600" height="400" />
+</div>
+
 <!--
 **SdpsX/SdpsX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
