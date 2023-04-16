@@ -5,7 +5,7 @@
 
 </a>
 <br>
-<img src="https://github.com/Rosya-edwica/Rosya-edwica/blob/main/scaler-create-impact.gif" width="600" height="400" />
+<img src=" width="600" height="400" />
 </div>
 
 <!--
