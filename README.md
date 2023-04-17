@@ -13,8 +13,8 @@
 -  **I'd love to get into a career in science in the future alongside programming**
 -  **LOVE  playing different computer games.Really, help, I can't find 3 players for Magicka!**
 - ** I love chess and in general the competitive element   **
--**And so I'm optimistic just a guy who likes to code**  
-
+-** And so I'm optimistic just a guy who likes to code  **  
+- **
   
   
 ## 🧰 Мои навыки
