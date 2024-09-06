@@ -9,11 +9,10 @@
   
   
 ## Here's some fun facts about me:
-  -  **I love math, but when it comes to mathematical physics equations.My powers are all here**
--  **I'd love to get into a career in science in the future alongside programming**
-- **LOVE  playing different computer games.Really, help, I can't find 3 players for Magicka!**
-- **I love chess and in general the competitive element** 
-- **And so I'm optimistic just a guy who likes to code!**  
+- **I graduated with honors from the Kryvyi Rih Federal University with a bachelor's degree in Applied Mathematics.**
+- **I love the backend**
+- **I try to instill the habit of sitting on leetcode all my free time**
+- **I am also quite a pleasant and cheerful person, always trying to find a common language** 
   
   
 ## 🧰 Мои навыки
